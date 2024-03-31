@@ -9,5 +9,13 @@ This is repository with WeatherList.playground sample project with simple specif
 5. If there's more than 3 cities show only first 3 cities in the list and button `Show more`
 6. When `Show more` button is tapped show all cities in the list
 
+## How to participate
+- Open `WeatherListPackage/Package.swift`
+- Add new target named `<your name><architecture name>`
+  - Optionally add new test target named `<your name><architecture name>Tests`
+- Put your solution in newly created target
+- Add presentation of your component in `WeatherListPackage/WeatherListPackage.swift`
+- Preview your's and other's solutions in Xcode preview
+
 ## Exanple UI
 <img src="https://github.com/asiliuk/WeatherListPlayground/assets/1136316/4e264365-b5d8-4ac5-b8a1-9a7a8c480642" width=320>
